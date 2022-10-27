@@ -1,21 +1,21 @@
 {
-	"multiplier": 2.3,
+	"multiplier": 2,
 	"game_levels": 25,
 	"mines": 10,
 	"games_averaged": 5,
-	"bet_amount": 1,
+	"bet_amount": 0.01,
 	"chanceof_winning": 55,
 	"snipe_at": 0.07,
 	"auto_bet": true,
 	"martingale": true,
-	"skip_losing_streaks": true,
+	"skip_losing_streaks": false,
 	"play_sounds": false,
-	"predict_crash": true,
-	"webhook": "https://discord.com/api/webhooks/",
-	"max_betamount": 512,
+	"predict_crash": false,
+	"webhook": "https://discordapp.com/api/webhooks/1035160881140613140/DkeGGvAHYIEJgj4NmrJjLQKifJNMhs3b49vAfub6Aji-s3Wy73ZSCDd8qY_h_yG4hxmR",
+	"max_betamount": 100,
 	"auto_stop": 2000,
 	"stop_loss": 0,
 	"auto_restart": true,
 	"key": "",
-	"authorization": ""
+	"authorization": "ywmz0d/oyaZsfbajveDgr1UIEso0oCqdJhL4Xqxz0HgWAONcI5+3UJIh0sstXUexQy6GPzNyGNQWJP3H9Of6CPMz+27kVRl12WWMn6E86TVmCvPvhNmuxys8jtpy7OzTNyXIchd+s4IGcjAnvmoDao4p3etlBfCq8zji49Ri9iKdVXJHcPnZPC/Q5aq/6QdiP3zdTqYS+T2mApJ6qwVLWAUCs+bsaMkykE/3gOCKnENqq7jvLV2PO2RngdZFoz800NDIuVwtwylme6I0/EA//SJZH69bLtwqokrX72aGc8O3BP1SDXQ3joFeSfz1UsjrKmEYeS41im+uIizZdBIrnS0ockT66KjQ4wDDqDtpUheRHZBqZFMrtsF2ilSOFnwDbF4JgJ+BoyxqrIT2Bv7eciFgOZmbvrVH+5oqh8pEUHl1t61k8oKEKUwqWC6E7YszEpyMla2fDkh/Mip4ha0w1/6saByYOmutlfggKS4cocU5vBqcohVYc2Ghi2qPwZxu3L8n/MDbBpAEik0YR1B3SfZ3QekQbLh1ZMvZN4pbDPx+qMY92F1vWsMfzMeoq9vmJZ9tREobNm8tFSOi/tCl66+Zvd5Xqp3GfSKFIGqDeQjykTGgZNgTvSQgBbKcq5Aa1rYN+f9+XsTuQkZC1yBGKIJ/Kl3EO9liJvU4DFuadQcEMHEJo7SJCRd9mD7aR5CzLwJNvXYS8F7pr/6+rgsics88s8gJWa696alcI/yYWKioZlTbKpQlXOVQqOCf1yjHl1dGFch3bv2BFeCST1r71T/4LJkyohl4N5NoLujsXioxHJGWMYCbLwxGma09G/nqEY+4QOkX66BH9Psy2JwyQVZCynvyk8KpEPT4S/9bzTWArGKNoTGDdLMfpQoPNZtQdeHYLuKjspTTcXXCF+H8PMVjbvtiUlLIgLOLU7BxiqXhwTMgGECOJGMcG6v7hlwiF8uK53D8wQCxkOuh3QivhZftMJAZXLFqh1dWy798C+NK1KIrsHFzrMYZCf726h8Tg8YKLSr8NZ/Eb6Se/6t48sXHUXX8DVnQFlijn0X9W4xdWUI/HmbpXBofIxf9EvFky5NjqAGIXvgkR1kLIeGO9UgauUzuD0+zs0saa8aPm1f7Y0tvCPyoJYW1FOAVtRZtIVPPmiwFT9sc7vziDqKsF4nN/kLOvN6w7RMXnr/AadVOU6YhynhevRqjkrgJo3fc1XTX9fzBTsOG8AqhqucJwsdtLmfFa1ZHSY0wVZ2NsRzGYglXvGYm3wv2eKFTTcZk53AdPQ63p7ffJniKrUXIs2Vn1nsbXlmg1hmV46huzBXR6p4p82LVo0WPXo+8hIL9b3kVfXx5ORcsyUErSbVqaKM/CX4EfgIluOGRg872O8fS4V8oj+6qzW8cfpj2VEShSTV5sC5b+9pdw/mF7oEHwfWYjfIslH+kFsyiq2ocM/U9DJFFoKrffRJ2WMAPgkFtipmvcRScE2E9L/xhGZ8wlB/jMvKdY6cC0QhSwmnjW0TxCfj1G43M0wTaqqb2XqwcblXGOZgeH2/B7k1ZVTr4UvrOhMdT6hGfKY16bPNdKNDBXt9fmxaMX/SYok6BEqmSmvnpIhcEGgUmvAu4r/3et/AHzXaK5lDl9Al5j8wN7xbO31zKThI0NNcH5gGDy04tkIk2Awd70UJgPxModMvPrqucwp8jds8vt0N0gJPWdk0xDFwQFt5fWQJba1vU/8EVO0QO5nFOg8yZ8BWXpWZwqQAHPBDD7Cxv6MBjaMb/YUp6KjG9jxMWB5AGPYvqDoYO4djX6AgpxS+6UQ9Dsq8Td9LoxuYhc8kMbB9z7D5qr2MoOMYGEDHiaVcqJ4LIGubS9kont80F62cIwfyoWkCDM3GCmRsJVrdIeed/qNnEdOSaVG8UyDu3YWHLWNk9c5GLHa45AQd9B3l/7U6mN5bWyg=="
 }
